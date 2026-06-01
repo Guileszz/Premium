@@ -1,0 +1,39 @@
+Para a tag FOTO-:
+
+Generate an image of [SUBJECT], [ENVIRONMENT], cinematic studio lighting, highly detailed, 8k resolution, photorealistic, sharp focus.
+
+Para a tag MUSIC-:
+
+Create a [GENRE] track featuring [SUBJECT/MOOD], aggressive bassline, fast tempo, urban underground style, high quality audio production.
+
+Para a tag CHAT-:
+
+Write a high-converting short copy about [SUBJECT]. Tone: direct, persuasive, and technical. Output only the final text, no introductions.
+
+
+Prompt Ponte para Imagem (Gera o Visual com base no Texto):
+
+Convert the following concept into a hyper-detailed cinematic prompt for rendering: [PASTE_CHAT_OUTPUT_HERE]. Style: Photorealistic, cinematic lighting, 8k, Unreal Engine 5 render.
+
+Prompt Ponte para Música (Gera o Clima com base no Cenário):
+
+Create an intense [GENRE] instrumental track that perfectly matches the dark, heavy, and underground atmosphere described here: [PASTE_CHAT_OR_IMAGE_TAGS_HERE].
+
+
+=======================================================================
+[MATRIZ MASTER] PROMPTS DE INJEÇÃO RÁPIDA - IMPÉRIO MUTANTE
+=======================================================================
+
+>> ESQUADRÃO ALPHA (TAG: CHAT-) -> FOCO: COPY/HOOKS/VSL
+Prompt Base: Write a highly persuasive short ad copy about [SUBJECT]. High-status tone, aggressive urgency, raw text output only.
+
+>> ESQUADRÃO BETA (TAG: FOTO-) -> FOCO: RENDER/LUXO/SaaS
+Prompt Base: Cinematic render of [SUBJECT], dark cyberpunk aesthetic, intense neon backlighting, macro photography, 8k resolution, photorealistic.
+
+>> ESQUADRÃO GAMA (TAG: MUSIC-) -> FOCO: DRILL/PHONK/RETENÇÃO
+Prompt Base: Create an intense [GENRE] instrumental track featuring aggressive 808 cowbells and fast urban underground tempo.
+
+>> ESQUADRÃO DELTA (TAG: CHAT-) -> FOCO: PYTHON/MOJO/SCRAPING
+Prompt Base: Write a highly optimized Python script to automate [TASK]. Minimal CPU overhead, silent error handling, code block output only.
+
+

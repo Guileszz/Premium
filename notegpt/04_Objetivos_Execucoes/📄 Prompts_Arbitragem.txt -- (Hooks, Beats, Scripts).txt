@@ -1,0 +1,9 @@
+Recursos: Geradores de ganchos (hooks) de 3s, prompts de beats agressivos, análise de tendências.
+
+Plano de Execução: Sequestro de atenção para monetização em Dólar (TikTok/Shorts).
+
+Aplicações: Vídeos curtos de retenção, automação de legendas, campanhas de tráfego direto.
+
+Prompt Alpha (Copy): "Write a 3-second hook for a viral video about [SUBJECT]. It must be controversial, shocking, or extremely curiosity-inducing. Output: 1 sentence."
+
+Prompt Gama (Áudio): "Create an aggressive Phonk instrumental track, 140 BPM, distorted bass, fast tempo, dark underground urban atmosphere, high impact."

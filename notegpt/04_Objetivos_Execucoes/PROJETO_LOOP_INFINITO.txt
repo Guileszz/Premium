@@ -1,0 +1,17 @@
+⚡ Fase 1: O Ciclo de Ida (Criação em Cadeia)
+Gatilho Inicial (CHAT-): Uma conta do Lote Alpha gera um micro-roteiro ou uma descrição conceitual rica (Ex: "A dark cyberpunk alley after rain, heavy neon reflection").
+
+Injeção Visual (FOTO-): Você pega o próprio output de texto gerado e joga sem alterações na conta de imagem. A máquina traduz o texto em um ativo visual bruto.
+
+Injeção Sonora (MUSIC-): O mesmo texto conceitual (ou palavras-chave dele) é injetado na conta de áudio para ditar o clima, o gênero (Phonk/Drill) e o tempo da faixa.
+
+Fusão Final (Produção de Vídeo): Você junta os três outputs na interface do NoteGPT, gerando o ativo de luxo completo (Vídeo + Áudio + Texto de legenda).
+
+🔄 Fase 2: O Ciclo de Volta (A Mutação Infinita)
+É aqui que a mágica acontece e o loop se torna autônomo:
+
+Ativo Atual,Ação de Inversão,Próximo Input,O que muda na Mutação?
+Vídeo Pronto,Pegar a descrição gerada pelo vídeo ou um frame chave.,Injetar de volta no CHAT- de outra conta.,Mudar o ângulo: Ex: Pedir o ponto de vista do vilão ou mudar a paleta de cores.
+Nova Copy,Extrair ganchos baseados no novo roteiro modificado.,Virar o prompt para a próxima FOTO-.,O estilo visual se transforma (Ex: Cyberpunk vira Vaporwave Isométrico).
+Nova Música,Mudar o gênero baseado no novo cenário visual gerado.,Virar o prompt para a próxima MUSIC-.,O ritmo acelera (Ex: De Chill Trap para Hardcore Memphis Phonk).
+

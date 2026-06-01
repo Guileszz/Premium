@@ -1,0 +1,15 @@
+Recursos: Snippets de código (Python/Mojo), templates de cold-email para RH e Logística, scripts de prospecção.
+
+Plano de Execução: Prospecção B2B ativa em Serrana/Ribeirão Preto.
+
+Aplicações: Ferramentas de otimização de rotas, automação de notas fiscais, relatórios automatizados de estoque.
+
+Prompt Delta (Python): "Write a robust, silent Python script to scrape public data from [LOGISTICS_SITE_NAME] regarding transportation routes. Use 'requests' and 'BeautifulSoup'. Focus on low CPU usage."
+
+Prompt Alpha (Copy): "Draft a direct, professional cold-email to a Logistics Manager at [COMPANY]. Focus: Reducing operational friction by 20% through custom micro-automation. Keep it under 100 words."
+
+O Alvo: Usar o seu domínio de automação Python para atacar a ineficiência do mundo real. Criar raspadores que extraem contatos de RH, e-mails e gargalos de empresas de transporte, usinas e prestadoras de serviços locais.
+
+A Execução: O Esquadrão DELTA cria o script de scraping, e o Esquadrão ALPHA gera copies frias (Cold Mails) absurdamente persuasivas oferecendo suas micro-automações para cortar custos dessas empresas.
+
+A Brecha (Glitch): O mercado de logística tradicional perde rios de dinheiro com processos manuais. Você vende o script como um SaaS local de "limpeza e logística de dados", rodando na máquina deles. Custo de prospecção zero.

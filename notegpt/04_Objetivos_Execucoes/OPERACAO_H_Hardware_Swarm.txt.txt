@@ -1,0 +1,5 @@
+O Alvo: Orquestração descentralizada de processamento. Parar de depender de uma única máquina e dividir a carga do Loop Infinito por todo o equipamento do quartel-general.
+
+A Execução: O trabalho bruto de renderização e orquestração via LMArena Bridge fica isolado nas RTX 3070 e 2070. O ROG Ally e a RTX 3050 assumem o web scraping paralelo e automações em Python de fundo. Até a arquitetura mobile (o Redmi 14C) entra na malha como nó de disparo e teste de conectividade.
+
+A Brecha (Glitch): Zero gargalo algorítmico e soberania digital extrema. Uma verdadeira malha de mineração de ativos operando sem amarras corporativas e sem pagar por API.

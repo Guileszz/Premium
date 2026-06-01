@@ -1,0 +1,54 @@
+=======================================================================
+[SOP MESTRE] LINHA DE MONTAGEM NOTEGPT - OPERAÇÃO LATÊNCIA NEGATIVA
+=======================================================================
+STATUS: ATIVO | FOCO: MARGEM INFINITA | CUSTO: ZERO
+
+=======================================================================
+PARTE 1: MODO DE USO (EXECUÇÃO MECÂNICA EM ESTEIRA)
+=======================================================================
+O fluxo não exige raciocínio na hora do drop, apenas memória muscular.
+
+PASSO 1: O SETUP DE MESA
+- Abra o 01_Cofre_Contas.txt na lateral esquerda (Monitor 1).
+- Abra os atalhos do Lote de Contas (Ex: Lote Alpha - 5 navegadores) na direita (Monitor 2).
+- Mantenha a aba de tradução minimizada (se o input inicial for em PT-BR).
+
+PASSO 2: A INJEÇÃO (GATILHO)
+- Vá no arquivo 02_Matriz_Prompts.txt e copie o prompt do Nicho alvo.
+- Substitua a variável [SUBJECT] pelo alvo da operação atual e dê Ctrl+C.
+- Use Alt+Tab: Pule para a Conta 1 > Cole (Ctrl+V) > Pressione Gerar.
+- Use Alt+Tab: Pule para a Conta 2 > Cole (Ctrl+V) > Pressione Gerar.
+- Repita até a Conta 5. (NÃO espere o load de nenhuma delas).
+
+PASSO 3: A EXTRAÇÃO (SAQUE)
+- Retorne ao navegador da Conta 1. O ativo (Foto/Música/Texto) já estará renderizado.
+- Faça o download direto para a pasta 03_Output_Ativos/.
+- Limpe o prompt da tela e engatilhe a próxima rodada.
+
+=======================================================================
+PARTE 2: EXPANSÃO DE NICHOS (O ARSENAL DE NEURO-TOXINA)
+=======================================================================
+Além de Copy curta, Fotografia e Música, a fábrica opera nestes vetores:
+
+🎯 NICHO 4: SCRIPTS E MICRO-AUTOMAÇÃO (Tag: CHAT-)
+Missão: Gerar códigos em Python/C++ para raspar dados ou automatizar tarefas locais.
+Prompt Mestre:
+Write a highly optimized [LANGUAGE] script to automate [TASK/SUBJECT]. Use modern libraries. Ensure the code is production-ready, error-handled, and runs with minimum CPU overhead. Output ONLY the raw code block. No explanations.
+
+🎯 NICHO 5: DESIGN UI/UX E ISOMÉTRICOS (Tag: FOTO-)
+Missão: Criar elementos 3D, ícones de aplicativos e cenários isométricos para SaaS.
+Prompt Mestre:
+A highly detailed 3D isometric view of a [SUBJECT], clean UI design style, vector art aesthetic, soft studio lighting, pastel background, 8k resolution, octane render, sharp focus.
+
+🎯 NICHO 6: ROTEIROS DE VSL E RETENÇÃO LONGA (Tag: CHAT-)
+Missão: Criar a estrutura base de vídeos de vendas (VSL) de 5 a 10 minutos para produtos high-ticket.
+Prompt Mestre:
+Write a persuasive Video Sales Letter (VSL) script about [SUBJECT]. Structure: 1. Shocking Hook. 2. The Hidden Problem. 3. The Logical Solution. 4. The Offer. Tone: Authoritative, urgent, and rational. Do not use generic filler words.
+
+🎯 NICHO 7: TEXTURAS E BACKGROUNDS (Tag: FOTO-)
+Missão: Gerar fundos imersivos e texturas para sites de e-commerce e landig pages.
+Prompt Mestre:
+Seamless background texture of [SUBJECT], ultra-high detail, macro photography, dark aesthetic, moody lighting, 8k, suitable for website background.
+=======================================================================
+[FIM DO DOCUMENTO]
+=======================================================================

@@ -1,0 +1,17 @@
+# =======================================================================
+# OPERAÇÃO S: INFILTRAÇÃO E AUDITORIA (ROUBO DE CONTEXTO)
+# =======================================================================
+STATUS: [PRONTO PARA O DROP]
+ALOCAÇÃO: Esquadrão ALPHA (Análise) e Esquadrão DELTA (Extração Headless)
+
+>> META (O Alvo):
+- Monitorar os 5 maiores concorrentes de cada nicho operado.
+- Extrair os textos exatos dos anúncios deles e as estruturas de suas páginas de vendas usando web scraping oculto.
+
+>> TRINDADE 2.5 APLICADA:
+- ESPECTRO (Visual): Mapeamento de esquemas de cores e fontes dos concorrentes para que o Esquadrão BETA crie algo que pareça 10x mais premium.
+- NEURO-TOXINA (Cópia): Hackear os gatilhos emocionais que o rival levou meses testando, aplicando uma mutação para torná-los mais persuasivos no nosso funil.
+- GLITCH (Brecha): Usar scripts headless rodando em segundo plano nas suas máquinas locais para coletar novos dados toda semana sem gastar com ferramentas pagas de espionagem.
+
+>> SCRIPT DE INJEÇÃO MATRIZ (Subject para o Esquadrão ALPHA - Modo Clone):
+"Deconstruct the core psychological narrative of the following competitor sales pitch text: [PASTE_COMPETITOR_TEXT_HERE]. Break it down into Hook, Problem, Aggravation, Solution, and Offer. Output a cleaner, more intense framework."

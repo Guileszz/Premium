@@ -1,0 +1,1 @@
+[04_Objetivos] Define o Alvo ➔ [02_Matriz] Preenche o Subject ➔ [Atalhos_Frota] Dispara em Massa ➔ [03_Output] Armazena o Lucro

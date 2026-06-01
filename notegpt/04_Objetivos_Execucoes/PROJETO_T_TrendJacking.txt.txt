@@ -1,0 +1,5 @@
+O Alvo: Não criar demanda, mas sequestrar a atenção que já existe. Uma operação focada inteiramente em "Trend Jacking" (surfar tendências em tempo real).
+
+A Execução: Um bot leve monitora picos de pesquisa no Google ou Twitter. Assim que um assunto explode (ex: uma nova tecnologia, uma crise financeira), o sinal é enviado ao Motor ÔMEGA (Loop). Em menos de 20 minutos, a esteira gera roteiro, áudio e imagem sobre a notícia.
+
+A Brecha (Glitch): Enquanto os canais de mídia tradicionais levam horas para editar um vídeo sobre uma notícia urgente, seus canais de Arbitragem Global postam o conteúdo em massa na primeira hora, roubando todo o pico de CPM inicial.

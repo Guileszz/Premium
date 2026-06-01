@@ -1,0 +1,31 @@
+⚙️ VERSÃO 2: ARQUITETURAS DE ESCALA E NOVOS MODELOS
+1. MODO GHOST: O MOTOR HEADLESS (O Fantasma)
+A Tática: Tirar a operação braçal das suas mãos. Um script Python roda em background (headless), carrega os cookies das suas 16 contas simultaneamente, dispara a matriz de prompts e baixa os ativos direto para a pasta 03_Output_Ativos.
+
+Modelos de Foco: Extração massiva de base de dados, web scraping de métricas e geração de VSLs longas (cenários onde o clique manual perde eficiência).
+
+A Vantagem (Glitch): Libera 100% da sua CPU mental. Você apenas alimenta o 02_Matriz_Prompts.txt no bloco de notas e o código cospe o lucro. Latência Negativa em seu estado puro.
+
+2. MODO CLUSTER: SOBERANIA LOCAL (Bypass Total)
+A Tática: Ignorar completamente a cota diária da nuvem e as travas comerciais. Plugar os prompts modulares na sua própria infraestrutura de hardware (jogando a carga para a RTX 3070 e RTX 2070).
+
+Modelos de Foco:
+
+Chat (LMArena Bridge): Modelos pesados rodando via Ollama no servidor local para copy e orquestração sem limite de tokens.
+
+Foto (ComfyUI / Forge): Renders de produtos físicos de altíssima fidelidade, sem filtro de censura ou limite de cota, orquestrados pela sua rede distribuída.
+
+A Vantagem (Glitch): Margem Infinita real. Zero dependência de APIs fechadas ou servidores que podem cair. O tempo de resposta depende unicamente da sua GPU.
+
+3. MODO SWARM: ARBITRAGEM MULTI-PLATAFORMA (O Enxame)
+A Tática: Expandir além do NoteGPT. Usar a mesma matriz de perfis isolados no Brave para drenar outros ecossistemas freemium simultaneamente, combinando resultados.
+
+Modelos de Foco:
+
+Vídeo Dinâmico (B-Rolls): Luma Dream Machine ou Haiper AI (ciclando contas free).
+
+Música (High-Fidelity): Suno AI ou Udio para orquestração de trilhas cinematográficas.
+
+Imagem (Estética RAW): Leonardo.ai (tokens diários renováveis).
+
+A Vantagem (Glitch): Diversificação do arsenal estético. Se uma plataforma atualiza o algoritmo e bloqueia a rotação, o enxame continua operando pelas outras rotas.

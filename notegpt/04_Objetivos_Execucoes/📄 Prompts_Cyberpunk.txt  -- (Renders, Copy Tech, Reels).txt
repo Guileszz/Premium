@@ -1,0 +1,10 @@
+)
+Recursos: Modelos de render 8K, paleta de cores Neon/Dark, scripts de automação de UI.
+
+Plano de Execução: Criar vitrines para SaaS de automação que você desenvolve.
+
+Aplicações: Reels de "Tech Setup", anúncios para ferramentas de automação, branding de marca própria.
+
+Prompt Alpha (Copy): "Write a short, punchy ad copy for a high-performance automation tool. Focus on speed, efficiency, and 'hacking the growth'. No fluff, extreme urgency."
+
+Prompt Beta (Render): "Cyberpunk dashboard UI, holographic data visualization, dark background with cyan and magenta lighting, high-tech, 8k, photorealistic, cinematic render."

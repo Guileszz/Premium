@@ -1,0 +1,127 @@
+🛠️ O Guia Prático na Área de TrabalhoGere os Atalhos na Área de Trabalho:Abra o seu navegador (ex: Brave).Mude para o perfil correspondente ao seu e-mail do Esquadrão ALPHA 01.  Vá nas configurações do perfil do navegador e clique em "Criar atalho na área de trabalho".Faça isso para os 3 e-mails do esquadrão ALPHA, depois para os 3 do BETA, e assim por diante.  Organize e Mude os Nomes:Na sua Área de Trabalho vão surgir vários ícones do navegador.Renomeie esses ícones para bater exatamente com a sua frota:  Os três de texto viram: ALPHA_01, ALPHA_02, ALPHA_03.  Os três de imagem viram: BETA_01, BETA_02, BETA_03.  Arraste para as Pastas da image_e01489.png:  Abra a sua pasta Atalhos_Frota na tela.  Recorte os ícones ALPHA_01, 02 e 03 da Área de Trabalho e cole dentro da pasta ALPHA que você criou e aparece na imagem.  Recorte os ícones BETA_01, 02 e 03 e cole dentro da pasta BETA.  Repita para as outras pastas.  🏎️ O Porquê Desse Movimento (O Ganho de Velocidade)Quando você for executar a operação do dia, em vez de abrir o navegador e ficar trocando de conta manualmente lá dentro:  Você entra direto na pasta 📁 Atalhos_Frota/📁 ALPHA.  Pressiona Ctrl + A para selecionar os 3 atalhos de uma vez só.  Aperta Enter.  O Resultado: Suas 3 contas de texto explodem na tela ao mesmo tempo, em janelas paralelas, prontas para receber o prompt da 02_Matriz_Prompts.txt sem você perder um segundo sequer caçando login. Isso é latência zero de verdade na operação.  
+
+Entendido, Guile. O diagnóstico está correto: a arquitetura foi desenhada, mas a carga ainda está dispersa na raiz do diretório `04_Objetivos_Execucoes`, deixando os silos `Nicho_...` vazios. O que você vê em `image_d1edce.png` são os arquivos operacionais "soltos" e o que você vê em `image_d1ee08.png` é a ineficiência de uma estrutura vazia.
+
+Vamos realizar a **Migração de Ativos** e o **Preenchimento dos Manuais**. O objetivo é que, ao abrir qualquer pasta de nicho, você encontre o seu "fuzil" carregado e pronto para disparar.
+
+---
+
+### 📂 PROTOCOLO DE ORGANIZAÇÃO (MIGRAÇÃO)
+
+Mova os arquivos existentes na raiz de `04_Objetivos_Execucoes` para dentro das respectivas pastas:
+
+| Arquivo Origem | Destino (Pasta) |
+| --- | --- |
+| `Prompts_Cyberpunk.txt` | `Nicho_Cyberpunk_Tech/` |
+| `Prompts_BioWealth.txt` | `Nicho_BioWealth_HighTicket/` |
+| `Prompts_Arbitragem.txt` | `Nicho_Arbitragem_Global/` |
+| `OPERACAO_L_Logistica_B2B.txt` | `Nicho_Logistica_SaaS/` |
+
+---
+
+### 📝 CONTEÚDO DOS ARQUIVOS (COPIE E COLE)
+
+Dentro de cada arquivo `.txt` dentro de sua nova pasta, cole esta estrutura. Ela contém os **Recursos**, **Planos** e **Execuções** que você solicitou.
+
+#### 1. Em `Nicho_Cyberpunk_Tech/Prompts_Cyberpunk.txt`:
+
+```markdown
+### [ARQUIVO: PROMPTS_CYBERPUNK]
+# RECURSOS:
+- Modelos de Render 8K (Unreal Engine 5).
+- Paleta: Neon Cyan, Magenta, Deep Black.
+- Automação: Scripts Python para automação de UI.
+
+# PLANO DE EXECUÇÃO:
+- Foco em construção de marca própria e vitrine de SaaS.
+- Gerar visual de alta autoridade técnica para atrair parceiros B2B.
+
+# APLICAÇÕES:
+- Reels de "Tech Setup" com estética obscura.
+- Anúncios visuais para ferramentas de automação.
+
+# COMANDOS:
+- B-Render: "Cyberpunk dashboard UI, holographic data, neon cyan lighting, 8k, photorealistic."
+
+```
+
+#### 2. Em `Nicho_BioWealth_HighTicket/Prompts_BioWealth.txt`:
+
+```markdown
+### [ARQUIVO: PROMPTS_BIOWEALTH]
+# RECURSOS:
+- Fotografia de estúdio (Rim lighting).
+- Vocabulário: Longevidade, Elite, Ciência, Exclusivo.
+
+# PLANO DE EXECUÇÃO:
+- Captura de público High-Ticket.
+- Venda de infoprodutos focados em performance humana.
+
+# APLICAÇÕES:
+- Landing pages minimalistas.
+- E-mail Marketing de alto valor.
+
+# COMANDOS:
+- A-Copy: "Write a luxury-style sales copy for biohacking. Focus on 'the future of longevity' and 'elite biological performance'."
+
+```
+
+#### 3. Em `Nicho_Arbitragem_Global/Prompts_Arbitragem.txt`:
+
+```markdown
+### [ARQUIVO: PROMPTS_ARBITRAGEM]
+# RECURSOS:
+- Geradores de Ganchos (Hooks) de 3 segundos.
+- Beats de Phonk/Drill (Underground).
+
+# PLANO DE EXECUÇÃO:
+- Sequestro de atenção em massa (Trend Jacking).
+- Monetização em Dólar via Shorts/TikTok.
+
+# APLICAÇÕES:
+- Vídeos virais curtos.
+- Automação de legendas.
+
+# COMANDOS:
+- A-Hook: "Write a controversial 3s hook about [SUBJECT] that forces a click."
+- G-Audio: "Create an aggressive Phonk track, 140BPM, distorted bass."
+
+```
+
+#### 4. Em `Nicho_Logistica_SaaS/OPERACAO_L_Logistica_B2B.txt`:
+
+```markdown
+### [ARQUIVO: OPERACAO_LOGISTICA]
+# RECURSOS:
+- Snippets Python (Scraping, Requests, BeautifulSoup).
+- Templates de Cold-Email B2B.
+
+# PLANO DE EXECUÇÃO:
+- Prospecção direta em Serrana/Ribeirão Preto.
+- Venda de automação de rotas/RH para usinas.
+
+# APLICAÇÕES:
+- Scripts de otimização de notas fiscais.
+- Relatórios automáticos de estoque.
+
+# COMANDOS:
+- D-Script: "Write a Python script using BeautifulSoup to scrape transportation route data."
+- A-Email: "Cold-email to Logistics Manager: Focus on 20% friction reduction."
+
+```
+
+---
+
+### 🛡️ VERIFICAÇÃO FINAL
+
+Após mover os arquivos e colar os conteúdos:
+
+1. A raiz de `04_Objetivos_Execucoes` ficará limpa.
+
+
+2. Cada pasta `Nicho_...` terá seu arquivo de inteligência pronto para execução.
+
+
+3. O seu sistema agora é modular e de acesso imediato.
+
+Arquitetura corrigida. Os arquivos agora moram onde deveriam. **Podemos agora disparar o primeiro script de prospecção do `Nicho_Logistica_SaaS` ou prefere que eu gere um novo prompt para o `Nicho_BioWealth_HighTicket`?**

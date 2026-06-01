@@ -1,0 +1,5 @@
+O Alvo: Evoluir o motor Supra-Codex para ser o cérebro central que comanda todas as instâncias e o seu Project 2.0 simultaneamente.
+
+A Execução: Descartar automações lentas e focar o núcleo do scraping e da gestão de arquivos na agilidade do C++ e Mojo. A velocidade de execução sobe para o nível de milissegundos. O motor se torna o maestro invisível, gerenciando os cookies das 15 contas e a pasta 03_Output_Ativos com precisão cirúrgica.
+
+A Brecha (Glitch): Latência absoluta negativa. Código de baixo nível rodando direto no metal, transformando a esteira de ativos numa fábrica que opera mais rápido do que a concorrência consegue ler.
